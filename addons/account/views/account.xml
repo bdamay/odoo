@@ -5,6 +5,7 @@
             <link rel="stylesheet" type="text/scss" href="/account/static/src/scss/variables.scss"/>
         </xpath>
     </template>
+
     <template id="assets_backend" name="account assets" inherit_id="web.assets_backend">
         <xpath expr="." position="inside">
             <link rel="stylesheet" href="/account/static/src/css/account_bank_and_cash.css"/>
