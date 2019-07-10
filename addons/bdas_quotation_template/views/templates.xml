@@ -1,0 +1,10 @@
+<odoo>
+    <data>
+        <template id="bda_quotation_header" inherit_id="web.external_layout_boxed">
+            <xpath expr="//div[@class='header']//div//h4" position="replace">
+                <div class="Bla">BLAL LLBLLAL LL</div>
+            </xpath>
+        </template>
+
+    </data>
+</odoo>
